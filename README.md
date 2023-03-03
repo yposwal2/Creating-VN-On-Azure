@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-In this lab, I am creating a virtual network on azure
+In this lab, I will be creating a virtual network on Azure using the Azure portal. This lab will give me hands-on experience in setting up a virtual network, defining the IP address space and subnet, and configuring basic security settings.
 <br />
 
 <h2>Utilities Used</h2>
